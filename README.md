@@ -1,5 +1,4 @@
 # Machine_Learning_2
-Kaggle Competition on "House Prices - Advanced Regression Techniques"
 
 In the Kaggle competition on "House Prices - Advanced Regression Techniques," I participated by analyzing 
 the provided datasets, which included a training set and a test set. These datasets contained information 
